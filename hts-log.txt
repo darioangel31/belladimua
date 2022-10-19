@@ -1,0 +1,17 @@
+HTTrack3.49-1+htsswf+htsjava launched on Wed, 19 Oct 2022 16:11:53 at https://fullhotmart.kpages.online/belladimua +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://fullhotmart.kpages.online/belladimua -O1 "C:\My Web Sites\BDM Pagina Copia" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:14:42	Error: 	"Not Found" (404) at link https://fullhotmart.kpages.online/none (from https://fullhotmart.kpages.online/belladimua)
+16:14:42	Error: 	"Not Found" (404) at link https://fullhotmart.kpages.online/url('//static-public.klickpages.com.br/uploads/media/file/5357389/logo_mua2_cabezera2.png') center/cover (from https://fullhotmart.kpages.online/belladimua)
+16:14:42	Error: 	"Not Found" (404) at link https://fullhotmart.kpages.online/url('') center/cover (from https://fullhotmart.kpages.online/belladimua)
+16:14:42	Error: 	"Not Found" (404) at link https://fullhotmart.kpages.online/transparent (from https://fullhotmart.kpages.online/belladimua)
+16:14:42	Error: 	"Not Found" (404) at link https://fullhotmart.kpages.online/linear-gradient( (from https://fullhotmart.kpages.online/belladimua)
+16:14:46	Error: 	"Not Found" (404) at link https://fullhotmart.kpages.online/POST (from https://fullhotmart.kpages.online/belladimua)
+
+HTTrack Website Copier/3.49-1 mirror complete in 2 minutes 53 seconds : 44 links scanned, 37 files written (4106670 bytes overall) [4217544 bytes received at 24378 bytes/sec], 1185302 bytes transferred using HTTP compression in 11 files, ratio 15%, 2.0 requests per connection
+(6 errors, 0 warnings, 0 messages)

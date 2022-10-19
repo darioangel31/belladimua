@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.kpages.online	TRUE	/	FALSE	1999999999	__cf_bm	Vslbu7LWDaXBZmQc711cMHfA_MzuRMEdpd9B8W.j_.0-1666206732-0-AdX0d7dI4hdMaKK0gKhhCYJksOEuGsZQ7AGpTdrmQB84aaENMlfVckn+HfnB7WdFEj3BwfDF/7WiAbic9/WBE+E=
+.kpages.online	TRUE	/	FALSE	1999999999	__cfruid	1c45d4706c36fb546a02bc424a4da22ff8759ca9-1666206732
+fullhotmart.kpages.online	TRUE	/	FALSE	1999999999	SameSite	None
+
